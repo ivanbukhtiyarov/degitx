@@ -12,7 +12,7 @@ require (
 	github.com/google/go-cmp v0.5.2 // indirect
 	github.com/multiformats/go-multiaddr v0.3.1
 	github.com/multiformats/go-multihash v0.0.14
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.2.0
 	gitlab.com/gitlab-org/gitaly-proto/go/gitalypb v0.0.0-20190424173140-c9b311f06511
 	go.etcd.io/etcd v0.5.0-alpha.5.0.20201125193152-8a03d2e9614b
